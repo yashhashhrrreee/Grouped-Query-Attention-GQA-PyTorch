@@ -60,7 +60,7 @@ gqa_project/
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/grouped-query-attention
+git clone https://github.com/yashhashhrrreee/Grouped-Query-Attention-GQA-PyTorch.git
 cd grouped-query-attention
 pip install -r requirements.txt
 ```
