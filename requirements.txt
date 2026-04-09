@@ -1,0 +1,4 @@
+torch>=2.0.0
+pytest>=7.0.0
+matplotlib>=3.5.0   # optional — only needed for notebook charts
+jupyter>=1.0.0      # optional — only needed to run the demo notebook
